@@ -30,6 +30,7 @@ public class Sorting {
                 }
         
     }
+        System.out.println("ascending order");
 for(int i=0;i<num.length;i++){
     System.out.println(num[i]);
 }
